@@ -1,28 +1,91 @@
 <h1 align="center">Hi 👋, I'm Darpan Sharma</h1>
-<h3 align="center">A passionate AI Researcher from India</h3>
+<h3 align="center">Applied AI Engineer | LLM Systems • RAG • Agentic Workflows</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idarpansharma&label=Profile%20views&color=0e75b6&style=flat" alt="idarpansharma" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idarpansharma" alt="idarpansharma" /></a> </p> -->
-
-- 🔭 I’m currently working on **Face recognition Biometric System**
-
-- 👨‍💻 All of my projects are available at [https://darpansharma.netlify.app/](https://darpansharma.netlify.app/)
-
-- 💬 Ask me about **react, javascript,laravel,typescript**
-
-- 📫 How to reach me **darpansharma0509@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/203001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="203001" height="30" width="40" /></a>
+<p align="center">
+Building intelligent systems using Large Language Models, retrieval architectures, and multimodal AI.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=idarpansharma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idarpansharma&show_icons=true&locale=en&layout=compact" alt="idarpansharma" /></p> -->
+---
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idarpansharma&show_icons=true&locale=en" alt="idarpansharma" /></p> -->
+### 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idarpansharma&" alt="idarpansharma" /></p>
+- 🔬 Currently working as an **AI Researcher**
+- 🤖 Building **LLM-powered systems, RAG pipelines, and AI automation workflows**
+- ⚙️ Experienced with **local LLM deployment, vector databases, and AI agents**
+- 🧩 Exploring **multimodal AI systems (text → image, speech, avatars)**
+
+---
+
+### 🚀 AI Focus Areas
+
+• Large Language Models (LLMs)  
+• Retrieval-Augmented Generation (RAG)  
+• Agentic AI Workflows  
+• Multimodal AI Systems  
+• Local LLM Infrastructure  
+
+---
+
+### 🛠 AI Stack
+
+**Languages**
+
+Python • JavaScript  
+
+**LLM / AI Frameworks**
+
+LangChain • MCP Servers • Vector Databases • Embeddings  
+
+**Generative AI**
+
+Ollama • Gemini API • OpenAI APIs  
+
+**AI Systems**
+
+Prompt Engineering • Semantic Retrieval • Context Window Optimization  
+
+**Frameworks**
+
+Flask • OpenCV  
+
+---
+
+### 🧩 Featured Projects
+
+🧠 **Local LLM Fine-Tuning & RAG System**  
+RAG pipeline using LangChain and vector databases with locally hosted LLMs via Ollama.
+
+🎨 **Imagina – AI Brand Content Generator**  
+Text-to-image generation system for brand-personalized social media content using Gemini API.
+
+🗣 **AI Virtual Avatar (3D + Text-to-Speech)**  
+Interactive AI avatar capable of speech synthesis with custom face integration.
+
+🚗 **Real-Time Smart Parking System**  
+Computer vision system for predicting parking availability using OpenCV and IoT.
+
+---
+
+### 🌐 Connect With Me
+
+Portfolio:  
+https://darpansharma.netlify.app/
+
+LinkedIn:  
+https://www.linkedin.com/in/darpan-sharma-60867222b/
+
+GitHub:  
+https://github.com/idarpansharma
+
+Email:  
+darpansharma0509@gmail.com
+
+---
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=idarpansharma&" />
+</p>
