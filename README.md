@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Darpan Sharma</h1>
-<h3 align="center">Applied AI Engineer | Backend Systems • RAG • Scalable Architecture</h3>
+<h3 align="center">Applied AI Engineer | Scalable Systems • RAG • Backend Architecture</h3>
 
 <p align="center">
-Building AI-powered applications with a strong focus on backend engineering, system design, and scalable architectures.
+Building intelligent and scalable systems combining AI, backend engineering, and real-world system design.
 </p>
 
 <p align="center">
@@ -13,10 +13,21 @@ Building AI-powered applications with a strong focus on backend engineering, sys
 
 ### 🧠 About Me
 
-- 🔬 AI Researcher working on real-world AI applications  
-- ⚙️ Focused on backend systems, modular architecture, and scalability  
-- 🤖 Experience with RAG pipelines, local model deployment, and AI workflows  
-- 🚀 Exploring multimodal AI (text → image, speech, avatars)  
+- 🔬 Currently working as an **AI Researcher**
+- ⚙️ Building **AI-powered applications and backend systems with focus on scalability**
+- 🧩 Experienced in **modular architectures, API design, and multi-tenant systems**
+- 🤖 Worked on **RAG pipelines, local model deployment, and AI-driven workflows**
+- 🚀 Exploring **multimodal AI systems (text → image, speech, avatars)**
+
+---
+
+### 🚀 Focus Areas
+
+• Applied AI Systems  
+• Backend & System Design  
+• Scalable Architecture (Modular Monolith)  
+• Retrieval Systems (RAG)  
+• AI + Product Engineering  
 
 ---
 
@@ -25,14 +36,52 @@ Building AI-powered applications with a strong focus on backend engineering, sys
 **Languages**  
 Python • JavaScript  
 
-**Backend & Systems**  
-FastAPI • REST APIs • Modular Architecture • Multi-Tenant Systems  
+**Backend & System Design**  
+FastAPI • REST APIs • Modular Monolith • Multi-Tenant Systems • Scalability Basics  
 
 **AI / ML**  
-RAG • Semantic Search • Embeddings  
+RAG • Semantic Search • Model Fine-Tuning • Embeddings  
 
-**Tools**  
+**Tools & Platforms**  
 Ollama • OpenAI APIs • Gemini API • Vector Databases  
+
+**Libraries**  
+LangChain • OpenCV  
+
+---
+
+### 🧩 Featured Projects
+
+🧠 **ATS Platform (Modular Monolith Architecture)**  
+Scalable multi-tenant system with AI-based resume parsing, candidate shortlisting, and automated interview scheduling.
+
+🧠 **Local LLM Fine-Tuning & RAG System**  
+Built a RAG pipeline with locally hosted models using Ollama and vector databases for context-aware retrieval.
+
+🎨 **Imagina – AI Brand Content Generator**  
+Text-to-image generation system for brand-personalized content using Gemini API.
+
+🗣 **AI Virtual Avatar (3D + Text-to-Speech)**  
+Interactive AI avatar system with speech synthesis and face integration.
+
+🚗 **Real-Time Smart Parking System**  
+Computer vision system for predicting parking availability using OpenCV and IoT.
+
+---
+
+### 🌐 Connect With Me
+
+Portfolio:  
+https://darpansharma.netlify.app/
+
+LinkedIn:  
+https://www.linkedin.com/in/darpan-sharma-60867222b/
+
+GitHub:  
+https://github.com/idarpansharma
+
+Email:  
+darpansharma0509@gmail.com
 
 ---
 
