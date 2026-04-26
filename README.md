@@ -34,13 +34,13 @@ Building intelligent and scalable systems combining AI, backend engineering, and
 
 <p align="left">
   <a href="https://www.instagram.com/darpan.decoded/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="20" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="25" />
   </a>
   <a href="https://www.linkedin.com/in/darpan-sharma-60867222b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="20" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="25" />
   </a>
   <a href="https://www.threads.com/@darpan.decoded" target="_blank">
-    <img src="https://cdn.simpleicons.org/threads/000000" height="20" />
+    <img src="https://cdn.simpleicons.org/threads/000000" height="25" />
   </a>
 </p>
 
