@@ -30,7 +30,53 @@ Building intelligent and scalable systems combining AI, backend engineering, and
 • AI + Product Engineering  
 
 ---
+### 🌐 Socials
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/darpan-sharma-60867222b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Darpan%20Sharma-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://darpansharma.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:darpansharma0509@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/REST%20API-black?style=for-the-badge" />
+
+  <!-- System Design -->
+  <img src="https://img.shields.io/badge/Modular%20Architecture-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Tenant%20Systems-black?style=for-the-badge" />
+
+  <!-- AI -->
+  <img src="https://img.shields.io/badge/RAG-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-black?style=for-the-badge" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini%20API-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20DB-black?style=for-the-badge" />
+
+  <!-- Dev -->
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman" />
+
+</p>
 ### 🛠 Tech Stack
 
 **Languages**  
