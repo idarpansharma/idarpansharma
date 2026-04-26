@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Darpan Sharma</h1>
-<h3 align="center">Applied AI Engineer | LLM Systems • RAG • Agentic Workflows</h3>
+<h3 align="center">Applied AI Engineer | Scalable Systems • RAG • Backend Architecture</h3>
 
 <p align="center">
-Building intelligent systems using Large Language Models, retrieval architectures, and multimodal AI.
+Building intelligent and scalable systems combining AI, backend engineering, and real-world system design.
 </p>
 
 <p align="center">
@@ -14,56 +14,55 @@ Building intelligent systems using Large Language Models, retrieval architecture
 ### 🧠 About Me
 
 - 🔬 Currently working as an **AI Researcher**
-- 🤖 Building **LLM-powered systems, RAG pipelines, and AI automation workflows**
-- ⚙️ Experienced with **local LLM deployment, vector databases, and AI agents**
-- 🧩 Exploring **multimodal AI systems (text → image, speech, avatars)**
+- ⚙️ Building **AI-powered applications and backend systems with focus on scalability**
+- 🧩 Experienced in **modular architectures, API design, and multi-tenant systems**
+- 🤖 Worked on **RAG pipelines, local model deployment, and AI-driven workflows**
+- 🚀 Exploring **multimodal AI systems (text → image, speech, avatars)**
 
 ---
 
-### 🚀 AI Focus Areas
+### 🚀 Focus Areas
 
-• Large Language Models (LLMs)  
-• Retrieval-Augmented Generation (RAG)  
-• Agentic AI Workflows  
-• Multimodal AI Systems  
-• Local LLM Infrastructure  
+• Applied AI Systems  
+• Backend & System Design  
+• Scalable Architecture (Modular Monolith)  
+• Retrieval Systems (RAG)  
+• AI + Product Engineering  
 
 ---
 
-### 🛠 AI Stack
+### 🛠 Tech Stack
 
-**Languages**
-
+**Languages**  
 Python • JavaScript  
 
-**LLM / AI Frameworks**
+**Backend & System Design**  
+FastAPI • REST APIs • Modular Monolith • Multi-Tenant Systems • Scalability Basics  
 
-LangChain • MCP Servers • Vector Databases • Embeddings  
+**AI / ML**  
+RAG • Semantic Search • Model Fine-Tuning • Embeddings  
 
-**Generative AI**
+**Tools & Platforms**  
+Ollama • OpenAI APIs • Gemini API • Vector Databases  
 
-Ollama • Gemini API • OpenAI APIs  
-
-**AI Systems**
-
-Prompt Engineering • Semantic Retrieval • Context Window Optimization  
-
-**Frameworks**
-
-Flask • OpenCV  
+**Libraries**  
+LangChain • OpenCV  
 
 ---
 
 ### 🧩 Featured Projects
 
+🧠 **ATS Platform (Modular Monolith Architecture)**  
+Scalable multi-tenant system with AI-based resume parsing, candidate shortlisting, and automated interview scheduling.
+
 🧠 **Local LLM Fine-Tuning & RAG System**  
-RAG pipeline using LangChain and vector databases with locally hosted LLMs via Ollama.
+Built a RAG pipeline with locally hosted models using Ollama and vector databases for context-aware retrieval.
 
 🎨 **Imagina – AI Brand Content Generator**  
-Text-to-image generation system for brand-personalized social media content using Gemini API.
+Text-to-image generation system for brand-personalized content using Gemini API.
 
 🗣 **AI Virtual Avatar (3D + Text-to-Speech)**  
-Interactive AI avatar capable of speech synthesis with custom face integration.
+Interactive AI avatar system with speech synthesis and face integration.
 
 🚗 **Real-Time Smart Parking System**  
 Computer vision system for predicting parking availability using OpenCV and IoT.
